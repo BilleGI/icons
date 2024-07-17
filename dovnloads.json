@@ -1,0 +1,9 @@
+{
+    "schemaVersion": 1,
+    "label": "Downloads",
+    "message": "+999999",
+    "color": "237, 12, 91",
+    "labelColor": "12, 237, 46",
+    "logoSvg": "icons/download.svg",
+    "style": "plastic"
+}
